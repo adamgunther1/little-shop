@@ -10,7 +10,7 @@ Little Coffee Shop is an e-commerce platform built with Ruby on Rails by a group
 
 #### New User E-Commerce Experience
 
-<img src="https://github.com/adamgunther1/little-shop/blob/master/read_me/little_coffee_user.gif" width="600" alt="User Demo">
+<img src="https://github.com/adamgunther1/little-shop/blob/master/read_me/little_shop_user.gif" width="600" alt="User Demo">
 
 [DB Schema](http://ondras.zarovi.cz/sql/demo/?keyword=caat-little-shop)
 
