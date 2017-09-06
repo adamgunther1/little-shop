@@ -22,6 +22,13 @@ rake db:{create,migrate,seed}
 rails s
 ```
 
+#### Run Tests
+
+```
+rake db:test:prepare
+rspec
+```
+
 
 #### Admin User Demo
 
